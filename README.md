@@ -1,5 +1,6 @@
 # VSD-IAT: Sign-off Timing Analysis - workshop report
 
+
 ## Static Timing Analysis (STA):
 
 Static Timing Analysis (STA) is a method used in digital circuit design to analyze and verify the timing performance of a digital design. STA checks that a design meets its timing requirements, ensuring that signals arrive at their intended destinations at the correct time, without any timing violations.
@@ -11,29 +12,16 @@ STA is critical in the design process to ensure that the digital circuits operat
 
 ## Contents
 
-* Day 1
-  * Summary
-  * Lab 
-  
+* Day 1  
 * Day 2
-  * Summary
-  * Lab
-  
 * Day 3
-  * Summary
-  * Lab
-  
 * Day 4
-  * Summary
-  * Lab
-  
 * Day 5
-  * Summary
-  * Lab
-  
 * Acknowledgements
 
+
 ## Day 1
+
 
 Summary:
 
@@ -78,9 +66,11 @@ Slack conditions satisfied:
 
 ## Day 2
 
+
 Summary:
 
 Overview of clock gating checks, Asynchronous pin related checks, Data to Data check, design rule check, latch based timing and STA text reports.
+
 
 Lab:
 
@@ -116,11 +106,16 @@ A SPEF file has 4 main sections:
 
 read_spef is the command for SPEF parsing.
 
+
 ## Day 3
+
 
 Summary: 
 
 Understanding slack calculation, multiple clocks, timing arcs and timing sense, cell delays and clock network.
+
+
+Lab:
 
 ![day 3 design considered](https://user-images.githubusercontent.com/37980845/220658198-d42131b1-c5d2-490f-95d7-451f559eaef6.png)
  
@@ -162,7 +157,11 @@ The following report is for endpoint_count 100:
 
 ## Day 4
 
+
 Summary: Crosstalk and noise, operating modes and other variations, clock gating checks and checks on async pins.
+
+
+Lab:
 
 Clock gating checks:
 ![day 4 clock gating check verilog file](https://user-images.githubusercontent.com/37980845/220696167-be7dd31b-db70-4a02-a0f3-b4a0884bebac.png)
@@ -182,7 +181,11 @@ Report generated when executed:
 
 ## Day 5
 
+
 Summary: Clock groups, clock properties, timing exceptions, and multiple modes.
+
+
+Lab:
 
 Common Path Pessimism Removal(CPPR):
 
@@ -222,6 +225,7 @@ s27_eco.v:
 
   * Kunal Ghosh, Co-founder of VLSI System Design (VSD) Corp. Pvt. Ltd.
   * Vikas Sachdeva, Advisor, Tech and VLSI Coach, Trainer and Innovator at vlsideepdive.
+
 
 ## Resources
 
