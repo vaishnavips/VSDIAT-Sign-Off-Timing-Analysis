@@ -20,7 +20,7 @@ STA is critical in the design process to ensure that the digital circuits operat
 * Acknowledgements
 
 
-## Day 1
+# Day 1
 
 
 Summary:
@@ -64,7 +64,7 @@ Slack conditions satisfied:
 ![day 1 output 3](https://user-images.githubusercontent.com/37980845/220635432-f2aff203-b746-4ec1-ad13-ae77793db77e.png)
 
 
-## Day 2
+# Day 2
 
 
 Summary:
@@ -107,7 +107,7 @@ A SPEF file has 4 main sections:
 read_spef is the command for SPEF parsing.
 
 
-## Day 3
+# Day 3
 
 
 Summary: 
@@ -155,7 +155,7 @@ The following report is for endpoint_count 100:
 ![image](https://user-images.githubusercontent.com/37980845/220689014-21cc6213-f9c9-4b31-a684-85f0ddb3b9bd.png)
 
 
-## Day 4
+# Day 4
 
 
 Summary: Crosstalk and noise, operating modes and other variations, clock gating checks and checks on async pins.
@@ -179,7 +179,7 @@ Report generated when executed:
 ![day 4 slack met op 1](https://user-images.githubusercontent.com/37980845/220699300-09746741-93e7-40e5-989e-e50f7330ef18.png)
 
 
-## Day 5
+# Day 5
 
 
 Summary: Clock groups, clock properties, timing exceptions, and multiple modes.
