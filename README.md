@@ -225,8 +225,8 @@ s27_eco.v:
 
 ## Resources
 
- https://github.com/vikkisachdeva/openSTA_sta_workshop/tree/master/vlsideepdive_openSTA_labs
- https://github.com/The-OpenROAD-Project/OpenSTA
- https://www.vlsisystemdesign.com/spef-format-part-1/
+- https://github.com/vikkisachdeva/openSTA_sta_workshop/tree/master/vlsideepdive_openSTA_labs
+- https://github.com/The-OpenROAD-Project/OpenSTA
+- https://www.vlsisystemdesign.com/spef-format-part-1/
 
 
