@@ -75,6 +75,13 @@ Overview of clock gating checks, Asynchronous pin related checks, Data to Data c
 
 Lab:
 
+Understanding Liberty files:
+
+![image](https://user-images.githubusercontent.com/37980845/220970899-56b8a867-4fee-4d9b-8635-a86551959fe7.png)
+![image](https://user-images.githubusercontent.com/37980845/220971056-f7a1f198-efa5-4ec0-b9b3-ccf33261c724.png)
+![image](https://user-images.githubusercontent.com/37980845/220971197-04406865-16f5-428b-b106-ab00221ec86c.png)
+
+
 Exercises: 
 
 - To find all the cells in simple_max.lib: 211 cells
