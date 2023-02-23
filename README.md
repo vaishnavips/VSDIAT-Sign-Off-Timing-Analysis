@@ -12,11 +12,11 @@ STA is critical in the design process to ensure that the digital circuits operat
 
 ## Contents
 
-* [Day 1 ]([url](https://github.com/vaishnavips/VSDIAT-Sign-Off-Timing-Analysis/blob/main/README.md#day-1)) 
-* [Day 2]([url](https://github.com/vaishnavips/VSDIAT-Sign-Off-Timing-Analysis/edit/main/README.md#day-2))
-* [Day 3]([url](https://github.com/vaishnavips/VSDIAT-Sign-Off-Timing-Analysis/edit/main/README.md#day-3))
-* [Day 4]((https://github.com/vaishnavips/VSDIAT-Sign-Off-Timing-Analysis/edit/main/README.md#day-4))
-* [Day 5]((https://github.com/vaishnavips/VSDIAT-Sign-Off-Timing-Analysis/edit/main/README.md#day-5))
+* [Day 1](https://github.com/vaishnavips/VSDIAT-Sign-Off-Timing-Analysis/blob/main/README.md#day-1)
+* [Day 2](https://github.com/vaishnavips/VSDIAT-Sign-Off-Timing-Analysis/edit/main/README.md#day-2)
+* [Day 3](https://github.com/vaishnavips/VSDIAT-Sign-Off-Timing-Analysis/edit/main/README.md#day-3)
+* [Day 4](https://github.com/vaishnavips/VSDIAT-Sign-Off-Timing-Analysis/edit/main/README.md#day-4)
+* [Day 5](https://github.com/vaishnavips/VSDIAT-Sign-Off-Timing-Analysis/edit/main/README.md#day-5)
 * Acknowledgements
 
 
