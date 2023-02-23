@@ -17,7 +17,8 @@ STA is critical in the design process to ensure that the digital circuits operat
 * [Day 3](https://github.com/vaishnavips/VSDIAT-Sign-Off-Timing-Analysis/blob/main/README.md#day-3)
 * [Day 4](https://github.com/vaishnavips/VSDIAT-Sign-Off-Timing-Analysis/blob/main/README.md#day-4)
 * [Day 5](https://github.com/vaishnavips/VSDIAT-Sign-Off-Timing-Analysis/blob/main/README.md#day-5)
-* [Acknowledgements]()
+* [Acknowledgements](https://github.com/vaishnavips/VSDIAT-Sign-Off-Timing-Analysis/blob/main/README.md#resources)
+* [Resources](https://github.com/vaishnavips/VSDIAT-Sign-Off-Timing-Analysis/blob/main/README.md#resources)
 
 
 ## Day 1
