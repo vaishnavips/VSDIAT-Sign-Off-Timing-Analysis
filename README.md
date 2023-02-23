@@ -52,7 +52,6 @@ As a stand-alone executable it can be used to verify the timing of a design usin
 
 OpenSTA uses a TCL command interpreter to read the design, specify timing constraints and print timing reports.
 
-More about OpenSTA: https://github.com/The-OpenROAD-Project/OpenSTA
 
 Lab:
 
@@ -114,8 +113,6 @@ A SPEF file has 4 main sections:
 * Name Map
 * Top Level Ports
 * Parasitic description
-
-More about SPEF format: https://www.vlsisystemdesign.com/spef-format-part-1/
 
 read_spef is the command for SPEF parsing.
 
@@ -226,5 +223,10 @@ s27_eco.v:
   * Kunal Ghosh, Co-founder of VLSI System Design (VSD) Corp. Pvt. Ltd.
   * Vikas Sachdeva, Advisor, Tech and VLSI Coach, Trainer and Innovator at vlsideepdive.
 
+## Resources
+
+ https://github.com/vikkisachdeva/openSTA_sta_workshop/tree/master/vlsideepdive_openSTA_labs
+ https://github.com/The-OpenROAD-Project/OpenSTA
+ https://www.vlsisystemdesign.com/spef-format-part-1/
 
 
